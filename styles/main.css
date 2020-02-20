@@ -1,0 +1,8 @@
+.fieldJournal {
+    display: flex;
+    flex-direction: column;
+}
+
+.journal-head {
+    text-align: center;
+}
